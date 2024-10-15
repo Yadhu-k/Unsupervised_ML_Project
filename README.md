@@ -20,3 +20,6 @@ Use the Iris dataset available in the sklearn library.
       * Provide a brief description of how Hierarchical clustering works.
       * Explain why Hierarchical clustering might be suitable for the Iris dataset.
       * Apply Hierarchical clustering to the preprocessed Iris dataset and visualize the clusters.
+
+
+  LinkedIn : https://www.linkedin.com/posts/yadhukrishna-koppantakath-0701b1191_clusteringabrtechniques-clusteringabralgorithms-activity-7251992557671391233-kZ5o?utm_source=share&utm_medium=member_desktop
